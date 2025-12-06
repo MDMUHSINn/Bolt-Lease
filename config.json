@@ -2,7 +2,7 @@
     "token": "",
     "language": "en",
     "prefix": "!",
-    "mongodbUri": "",
+    "mongodbUri": "mongodb+srv://faccout41:boltengine@cluster0.cvtls1s.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
     "excessCommands": {
         "other": true,
         "hentai": true,
